@@ -1,0 +1,24 @@
+{
+    "contacts": [
+
+        {
+            "id" : "100",
+            "name": "Aftab Ali",
+            "email": "soomroaftab2004@gmail.com",
+            "userId": "1"
+        }
+    ],
+
+    "user": [
+
+        {
+            "id" : "101",
+            "name": "Ali",
+            "email": "user1@gmail.com",
+            "userId": "12",
+            "passward": "987654321"
+        }
+    ]
+
+
+}
